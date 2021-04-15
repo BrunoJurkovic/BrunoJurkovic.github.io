@@ -1,0 +1,148 @@
+{ 
+    "basic_info": {
+      "description_header": "Pozdrav",
+      "description": "👋 Ja sam Bruno Jurković. Ja sam softverski inženjer iz Hrvatske koji radi na enterprise projektima sa klijentima.",
+      "section_name": {
+        "about": "O meni",
+        "projects": "Projekti",
+        "skills": "Znanja",
+        "experience": "Iskustvo"
+      }
+    },
+    "projects": [
+      {
+        "title": "RushNation",
+        "startDate": "2019",
+        "description": "Razvijam te proizvodim aplikaciju za RushNation zadnje dvije godine. RushNation je najveći Minecraft server u Njemačkoj.",
+        "images": [
+          "images/portfolio/rushnation/p1.png"
+        ],
+        "url": "app.rushnation.net",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Akademik",
+        "startDate": "2021",
+        "description": "Akademik je aplikacija koju sam napravio za natjecanje iz razvoja softvera. Aplikacija je dobila prvo mjesto na županijskoj razini!",
+        "images": [
+          "images/portfolio/akademik/p1.png"
+        ],
+        "url": "https://github.com/BrunoJurkovic/akademik",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Waitero",
+        "startDate": "2019",
+        "description": "Waitero je solucija za naručivanje napravljena za restorane i ugostiteljske objekte kako bi pojednostavila proces naručivanja.",
+        "images": [
+          "images/portfolio/waitero/p1.png"
+        ],
+        "url": "https://github.com/BrunoJurkovic/waitero",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Drinkly",
+        "startDate": "2021",
+        "description": "Drinkly je igra pijenja bazinarana na kartama koja je trenutno samo dostupna na Androidu.",
+        "images": [
+          "images/portfolio/drinkly/p1.png",
+          "images/portfolio/drinkly/p2.png"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.remade.drinkly",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "RushNation",
+        "title": "Voditelj razvoja mobilne aplikacije",
+        "years": "09.2019 - danas",
+        "mainTech": [
+          "Flutter"
+        ],
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "Git",
+          "GitHub",
+          "Trello",
+          "BLoC",
+          "Provider",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Freelancing",
+        "title": "Inženjer za mobilne aplikacije",
+        "years": "01.2019 - 11.2020",
+        "mainTech": [
+          "Flutter"
+        ],
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "Git",
+          "GitHub",
+          "Trello",
+          "BLoC",
+          "Provider",
+          "Firebase",
+          "React",
+          "Node.js",
+          "Javascript"
+        ]
+      }
+    ]
+  }

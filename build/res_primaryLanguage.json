@@ -1,0 +1,148 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Bruno Jurković. I am a software engineer from Croatia working with clients to deliver enterprise-grade apps.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "RushNation",
+        "startDate": "2019",
+        "description": "I have been building and maintaing the RushNation mobile app for the last 2 years. RushNation is the biggest Minecraft server in Germany.",
+        "images": [
+          "images/portfolio/rushnation/p1.png"
+        ],
+        "url": "app.rushnation.net",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Akademik",
+        "startDate": "2021",
+        "description": "Akademik is an app I built for a software engineering contest. The app got 1st place at the local level!",
+        "images": [
+          "images/portfolio/akademik/p1.png"
+        ],
+        "url": "https://github.com/BrunoJurkovic/akademik",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Waitero",
+        "startDate": "2019",
+        "description": "Waitero is a ordering solution built for resturaunts and coffee shops to streamline the ordering process.",
+        "images": [
+          "images/portfolio/waitero/p1.png"
+        ],
+        "url": "https://github.com/BrunoJurkovic/waitero",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      },
+      {
+        "title": "Drinkly",
+        "startDate": "2021",
+        "description": "Drinkly is a card-based drinking game app currently only available for Android.",
+        "images": [
+          "images/portfolio/drinkly/p1.png",
+          "images/portfolio/drinkly/p2.png"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.remade.drinkly",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "RushNation",
+        "title": "Lead Mobile App Engineer",
+        "years": "09.2019 - present",
+        "mainTech": [
+          "Flutter"
+        ],
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "Git",
+          "GitHub",
+          "Trello",
+          "BLoC",
+          "Provider",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "Freelancing",
+        "title": "Mobile App Engineer",
+        "years": "01.2019 - 11.2020",
+        "mainTech": [
+          "Flutter"
+        ],
+        "technologies": [
+          "Flutter",
+          "Dart",
+          "Git",
+          "GitHub",
+          "Trello",
+          "BLoC",
+          "Provider",
+          "Firebase",
+          "React",
+          "Node.js",
+          "Javascript"
+        ]
+      }
+    ]
+  }

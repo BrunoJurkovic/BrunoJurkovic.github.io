@@ -1,0 +1,58 @@
+{
+    "basic_info": {
+      "name": "Bruno Jurković",
+      "titles": [ "Software Engineer", "Mobile Developer", "Flutter Developer", "Android & iOS Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/BrunoJurkovic",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/bruno_jurkovic",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain",
+          "level": "100"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "100"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "60"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original",
+          "level": "100"
+        }
+      ]
+    }
+  }
